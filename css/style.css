@@ -26,6 +26,11 @@ section {
 }
 
 .row img {
+  max-height: 200px;
+  max-width: 100%;
+}
+
+.row.threeimg img {
   height: 200px;
 }
 
@@ -57,5 +62,6 @@ section {
    .row div {
      margin-bottom: 25px;
    }
+
 
 }
