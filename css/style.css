@@ -5,13 +5,24 @@
   box-sizing: border-box;
 }
 
+body {
+  margin:10px;
+}
+
 h1 {
   text-align: center;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+section {
+  background-color: #f9f9f9;
+  margin-top: 100px;
 }
 
 .row h3,.row p {
-
   margin-top: 30px;
+  font-size: 18px;
 }
 
 .row img {
@@ -20,7 +31,16 @@ h1 {
   margin-right: auto;
 }
 
-section {
+/* REGOLE IMMAGINI SECONDA SECTION */
 
-  background-color: lightgrey;
+.icon-padding img {
+  height: 250px;
+  border-radius: 50%;
+  padding: 30px;
+  background-color:#428bca;
+  margin-top: 40px;
+}
+
+.icon-padding hr {
+ margin-top: 10px;
 }

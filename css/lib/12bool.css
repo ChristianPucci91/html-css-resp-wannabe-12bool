@@ -5,8 +5,6 @@
 .container {
   max-width: 1170px;
   margin: 0 auto;
-  margin-top: 50px;
-  margin-bottom: 50px;
 }
 
 /* riga */
@@ -21,8 +19,7 @@
   min-height: 100px;
   text-align: center;
   /* debug */
-  background: red;
-  border: 1px solid black;
+  /* border-bottom: 1px solid lightgrey; */
   /* fine debug */
 }
 
