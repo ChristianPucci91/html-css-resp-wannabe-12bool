@@ -50,3 +50,12 @@ section {
     margin-bottom : 25px;
   }
 }
+
+/* REGOLE MEDIA EXTRA VERSIONE SMARTPHONE */
+
+@media all and (max-width: 768px) {
+   .row div {
+     margin-bottom: 25px;
+   }
+
+}
