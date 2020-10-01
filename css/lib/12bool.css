@@ -19,6 +19,7 @@
 [class*="col-"] {
   float: left;
   min-height: 100px;
+  text-align: center;
   /* debug */
   background: red;
   border: 1px solid black;

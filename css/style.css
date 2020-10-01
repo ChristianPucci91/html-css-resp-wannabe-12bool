@@ -9,6 +9,17 @@ h1 {
   text-align: center;
 }
 
+.row h3,.row p {
+
+  margin-top: 30px;
+}
+
+.row img {
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 section {
 
   background-color: lightgrey;
