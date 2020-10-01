@@ -27,8 +27,6 @@ section {
 
 .row img {
   height: 200px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* REGOLE IMMAGINI SECONDA SECTION */
@@ -43,4 +41,12 @@ section {
 
 .icon-padding hr {
  margin-top: 10px;
+}
+
+/* REGOLE MEDIA EXTRA VERSIONE TABLET */
+
+@media all and (min-width: 769px) and (max-width: 992px) {
+  .row div {
+    margin-bottom : 25px;
+  }
 }
